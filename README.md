@@ -1,3 +1,15 @@
+# ⚠️ Repository Moved
+
+> **This repository has been merged into the main EventCatalog monorepo as part of our consolidation effort.**
+>
+> 🔗 **New location:** https://github.com/event-catalog/eventcatalog/tree/main/packages/sdk
+>
+> - **Report issues:** https://github.com/event-catalog/eventcatalog/issues (use the `sdk` label)
+> - **Contribute:** All SDK development now happens in the monorepo
+> - **Documentation:** https://www.eventcatalog.dev/docs/sdk
+
+---
+
 ## @eventcatalog/sdk
 
 SDK and CLI tool to interact with your EventCatalog. Use programmatically in JavaScript/TypeScript or directly from the command line to automate your EventCatalog.
